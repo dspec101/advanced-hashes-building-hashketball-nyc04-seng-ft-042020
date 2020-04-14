@@ -51,7 +51,7 @@ def game_hash
           blocks: 11,
           slam_dunks: 1 }]
   }, 
-  away = { team_name: 'Charlotte Hornets',
+  away: { team_name: 'Charlotte Hornets',
       colors: %w[Turquoise Purple],
       players: [
         { player_name: 'Jeff Adrien',
